@@ -4,14 +4,15 @@ import Header from '../components/section/Header'
 const Home = () => (
   <div>
     <Head>
-      <title>Home | {process.env.SITE_NAME}</title>
+      <title>About | EDblog</title>
     </Head>
     <main>
-      <h1>EDblog</h1>
-      <span>{process.env.API_BLOG}</span>
+      <h1>About us (Acerca de nosotros)</h1>
+      <span>lorem ipsum...</span>
     </main>
   </div>
 )
 
 
 export default Home
+ 
