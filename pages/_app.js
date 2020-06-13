@@ -1,4 +1,5 @@
-import Header from "../components/section/Header"
+import Header from "../components/sectiones/Header"
+import "../styles/styles.scss"
 
 function App({Component, pageProps}){
     return (

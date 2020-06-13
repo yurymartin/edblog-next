@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Header from '../components/section/Header'
 
 const Home = () => (
   <div>
